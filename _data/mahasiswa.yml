@@ -2,8 +2,38 @@
   nama: Aisyah Putri
   judul: Analisis X menggunakan Y
   status: Proposal
+  semester_mulai: "Ganjil 2025/2026"
+  jumlah_sesi: 3
+  tanggal_sesi_terakhir: 2025-04-20
 
 - nim: 2021002
   nama: Budi Santoso
   judul: Implementasi Z pada platform W
   status: Penulisan
+  semester_mulai: "Ganjil 2025/2026"
+  jumlah_sesi: 5
+  tanggal_sesi_terakhir: 2025-05-05
+
+- nim: 2021003
+  nama: Cahya Wulandari
+  judul: Pengujian Model A dengan B
+  status: Revisi
+  semester_mulai: "Ganjil 2025/2026"
+  jumlah_sesi: 2
+  tanggal_sesi_terakhir: 2025-04-28
+
+- nim: 2020123
+  nama: Dwi Mahendra
+  judul: Studi Kasus C pada D
+  status: Selesai
+  semester_mulai: "Genap 2024/2025"
+  jumlah_sesi: 6
+  tanggal_sesi_terakhir: 2025-02-15
+
+- nim: 2020124
+  nama: Eka Pratama
+  judul: Evaluasi E dengan F
+  status: Selesai
+  semester_mulai: "Genap 2024/2025"
+  jumlah_sesi: 4
+  tanggal_sesi_terakhir: 2025-01-30
