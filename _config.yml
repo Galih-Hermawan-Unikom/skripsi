@@ -3,3 +3,6 @@ plugins:
   - jekyll-remote-theme
 title: Bimbingan Skripsi
 description: Catatan dan panduan untuk mahasiswa bimbingan
+
+baseurl: "/skripsi"     # nama repo Anda
+url: "https://galih-hermawan-unikom.github.io"
