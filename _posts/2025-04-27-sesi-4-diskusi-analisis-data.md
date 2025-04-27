@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sesi 4: Diskusi Analisis Data"
-date: 2025-04-28
+date: 2025-04-27
 student: "10121299"
 session: 4
 phase: "Analisis Data"
