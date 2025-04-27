@@ -23,7 +23,7 @@ permalink: /mahasiswa/
       <td>{{ mhs.nama }}</td>
       <td>{{ mhs.judul | strip_html | truncate: 50 }}</td>
       <td>
-        <a class="button" href="{{ site.baseurl }}/skripsi/mahasiswa/{{ mhs.nim }}/">
+        <a class="button" href="{{ site.baseurl }}/mahasiswa/{{ mhs.nim }}/">
           Lihat Catatan
         </a>
       </td>
