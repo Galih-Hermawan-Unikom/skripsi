@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Daftar Mahasiswa Aktif"
-permalink: /skripsi/mahasiswa/
+permalink: /mahasiswa/
 ---
 
 # Mahasiswa Aktif – Semester Genap 2024/2025
