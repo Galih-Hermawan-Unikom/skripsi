@@ -14,8 +14,8 @@ action_items:
   - "Buat plot histogram dan boxplot untuk variabel X dan Y"
   - "Hitung mean, median, dan standar deviasi untuk masing-masing variabel"
 references:
-  - "Doe, J. (2022). *Advanced Data Analysis Techniques*. Jurnal Data Science, 15(2), 45–60"
-  - "Smith, A. (2020). *Praktik Visualisasi Data*. Penerbit Analitik"
+  - "Doe, J. (2022). Advanced Data Analysis Techniques. Jurnal Data Science, 15(2), 45–60"
+  - "Smith, A. (2020). Praktik Visualisasi Data. Penerbit Analitik"
 ---
 
 ## Ringkasan Sesi
@@ -36,4 +36,3 @@ Pada sesi ke-4 ini kita membahas langkah-langkah awal memproses data yang dipero
 - Smith, A. (2020). *Praktik Visualisasi Data*. Penerbit Analitik.  
 
 ---
-> _Catatan tambahan_: Untuk sesi selanjutnya, siapkan contoh output tabel deskriptif dan visualisasi dalam format image (`.png`) jika memungkinkan.  
