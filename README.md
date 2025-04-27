@@ -1,2 +1,0 @@
-# skripsi
-Repositori bimbingan skripsi
